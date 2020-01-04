@@ -1,0 +1,17 @@
+7.cs  2d array
+8.cs  jagged array example
+9.cs  jagged array user input example
+10.cs static data member and static data type
+11.cs factorial
+12.cs switch case
+14.cs insertion of element in an array
+      insertion of all element if arry intp another array
+16.cs check prime or not 
+17.cs print alll prime num bet two gven num
+18.cs table of given num
+19.cs check amstrong or not
+--22.cs check amstrong in range of num
+20.cs check palindrome
+21.cs print prime num in arange
+23.cs palindrome num in range
+
